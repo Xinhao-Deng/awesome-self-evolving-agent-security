@@ -226,6 +226,7 @@ Format: `Title - venue/year. Why it matters for self-evolving agent security.`
 - AgentCrypt: Three-Layer Cryptographic Architecture for Multi-Agent Communication - arXiv 2026. Cryptographic architecture for multi-agent communication.
 - DAM: Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace - ICLR 2025. Defense for backdoor propagation in model merging.
 - [SEVerA: Verified Synthesis of Self-Evolving Agents](https://arxiv.org/abs/2603.25111) - arXiv 2026. Formal verification direction for self-evolving agents.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ## Contributing
 
